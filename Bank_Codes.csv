@@ -1,0 +1,667 @@
+Banks,Branch,Code,Country,Town,
+ABC,Bindura,21520,Zimbabwe,Bindura,Bindura
+ACL,Private Banking Centre,31100,ZIMBABWE,Harare,"153 Josiah Chinamano Avenue, Harare"
+ACL,Machipisa,31101,ZIMBABWE,Harare,"122 Mangwende Drive, Machipisa , Highfield"
+AGR,Human Resources,10114,Zimbabwe,Harare,Harare
+AGR,AGR,10547,Zimbabwe,Harare,AGR
+AGR,AGR,10123,Zimbabwe,Harare,AGR
+AGR,Central Operations,10117,Zimbabwe,Harare,Harare
+AGR,Treasury,10115,Zimbabwe,Harare,Harare
+AGR,Bindura/Mount Darwin/Rushinga/Nzvimbo,10503,ZIMBABWE,Bindura,
+AGR,Inala House Bulawayo,10304,ZIMBABWE,Bulawayo,
+AGR,Chinhoyi/Murombedzi,10505,ZIMBABWE,Chinhoyi,
+AGR,Gokwe/Sanyati,10512,ZIMBABWE,Gokwe,
+AGR,Gwanda/Maphisa/Filabusi,10516,ZIMBABWE,Gwanda,
+AGR,Head Office,10102,ZIMBABWE,Harare,
+AGR,Karoi/Magunje,10513,ZIMBABWE,Karoi,
+AGR,Marondera/Murewa/Mutoko/Wedza/Kotwa,10507,ZIMBABWE,Marondera,
+AGR,Masvingo/Gutu/Nyika/Jerera/Chivi,10508,Zimbabwe,Masvingo,
+AGR,Mvurwi,10510,ZIMBABWE,Mvurwi,
+AGR,Nelson Mandela/Beatrice/Mubaira,10101,ZIMBABWE,Harare,
+AGR,York House Bulawayo,10357,ZIMBABWE,Bulawayo,
+AGR,Binga,10558,ZIMBABWE,Binga,
+AGR,Jason Moyo Bulawayo,10345,ZIMBABWE,Bulawayo,
+AGR,Chipinge/Checheche,10541,ZIMBABWE,Chipinge,
+AGR,Chegutu,10522,ZIMBABWE,Chegutu,
+AGR,Chiredzi,10518,ZIMBABWE,Chiredzi,
+AGR,Hwange,10559,ZIMBABWE,Hwange,
+AGR,Lupane,10351,ZIMBABWE,Bulawayo,
+AGR,Mutare/Nyanga/Chimanimani,10509,ZIMBABWE,Mutare,
+AGR,Norton,10517,ZIMBABWE,Norton,
+AGR,Robert Mugabe,10143,ZIMBABWE,Harare,
+AGR,Rusape/Murambinda,10520,ZIMBABWE,Rusape,
+AGR,Guruve,10519,ZIMBABWE,Guruve,
+AGR,AGRgold,10163,ZIMBABWE,Harare,
+AGR,Corporate,10161,Zimbabwe,Harare,
+AGR,WESTGATE,10111,ZIMBABWE,Harare,
+AGR,CHIBUWE,10562,ZIMBABWE,Mutare,
+AGR,Hauna,10521,ZIMBABWE,Hauna,
+AGR,Beitbridge,10549,ZIMBABWE,Beitbridge,
+AGR,GWERU,10506,Zimbabwe,Gweru,77 6TH ST HURUDZA HOUSE
+BABC,Ngezi,21509,Zimbabwe,Ngezi,
+BABC,Victoria Falls,21516,ZIMBABWE,Victoria Falls,"Shop 6 Galleria Building, Stand 321 Victoria Falls Township"
+BABC,Hotsprings,21514,ZIMBABWE,Chimanimani,"Nyanyadzi Growth Point, Hotsprings Resort"
+BABC,Redcliff,21515,ZIMBABWE,Redcliff,"Shop 7, 8, 9 CABS Building"
+BABC,Graniteside,21115,ZIMBABWE,Harare,Cnr Seke/Cam Road
+BABC,Harare,21021,ZIMBABWE,Harare,
+BABC,Chiredzi,21506,ZIMBABWE,Chiredzi,
+BABC,Kwekwe,21507,ZIMBABWE,Kwekwe,
+BABC,Southerton,21117,Zimbabwe,Harare,
+BABC,Head Office,21101,ZIMBABWE,Harare,
+BABC,Belgravia,21110,Zimbabwe,Harare,
+BABC,Masvingo,21519,s,Masvingo,
+BABC,Triangle,21518,Zimbabwe,Triangle,
+BABC,TSF,21109,Zimbabwe,Harare,
+BABC,Heritage,21125,ZIMBABWE,Harare,
+BABC,Mount Pleasant,21120,ZIMBABWE,Harare,
+BABC,Jason Moyo,21301,Zimbabwe,Bulawayo,
+BABC,Manica Centre,21504,ZIMBABWE,Mutare,
+BABC,Msasa,21108,ZIMBABWE,Harare,"92 Mutare Road,Msasa"
+BABC,Hwange,21505,ZIMBABWE,Hwange,27 Coronation Drive
+BABC,Checheche,21513,ZIMBABWE,Checheche,
+BABC,Zvishavane,21512,ZIMBABWE,Zvishavane,
+BABC,Beitbridge,21511,ZIMBABWE,Beitbridge,
+BABC,Gweru,21510,ZIMBABWE,Gweru,
+FCB,Bbz-chitungwiza,2135,Zimbabwe,Harare,chitungwiza
+FCB,Head Office,2101,ZIMBABWE,Harare,
+FCB,FCA Centre,2157,ZIMBABWE,Harare,
+FCB,Rusape,2531,ZIMBABWE,Rusape,
+FCB,Operations Centre,2152,ZIMBABWE,Harare,
+FCB,Zvishavane,2524,ZIMBABWE,Zvishavane,
+FCB,Bulawayo Affluent,2396,ZIMBABWE,Bulawayo,
+FCB,Avondale,2190,ZIMBABWE,Harare,
+FCB,Nelson Mandela Avenue,2132,ZIMBABWE,Harare,
+FCB,Beitbridge,2593,ZIMBABWE,Beitbridge,
+FCB,Belmont,2326,ZIMBABWE,Bulawayo,
+FCB,Bindura,2518,ZIMBABWE,Bindura,
+FCB,Birmingham Road,2128,ZIMBABWE,Harare,
+FCB,Borrowdale,2147,ZIMBABWE,Harare,
+FCB,Savings Centre,2358,ZIMBABWE,Bulawayo,
+FCB,Voucher Processing Centre,2149,ZIMBABWE,Harare,
+FCB,Chinhoyi,2525,ZIMBABWE,Chinhoyi,
+FCB,Chiredzi,2595,ZIMBABWE,Chiredzi,
+FCB,Chitungwiza,2136,ZIMBABWE,Harare,
+FCB,Cripps Road,2199,ZIMBABWE,Harare,
+FCB,First Street,2112,ZIMBABWE,Harare,
+FCB,Treasury,2150,ZIMBABWE,Harare,
+FCB,Gokwe,2520,ZIMBABWE,Gokwe,
+FCB,Gweru,2511,ZIMBABWE,Gweru,
+FCB,Highfields,2163,ZIMBABWE,Harare,
+FCB,Highlands,2143,ZIMBABWE,Harare,
+FCB,Jason Moyo Street,2322,ZIMBABWE,Bulawayo,
+FCB,Kurima House,2133,ZIMBABWE,Harare,
+FCB,Kwekwe,2516,ZIMBABWE,Kwekwe,
+FCB,Leopold Takawira Avenue,2342,ZIMBABWE,Bulawayo,
+FCB,Main Street,2307,ZIMBABWE,Bulawayo,
+FCB,Marondera,2527,ZIMBABWE,Marondera,
+FCB,Masvingo,2509,ZIMBABWE,Masvingo,
+FCB,Mhangura,2545,ZIMBABWE,Mhangura,
+FCB,Mutare,2513,ZIMBABWE,Mutare,
+FCB,Nklumane,2335,ZIMBABWE,Bulawayo,
+FCB,Premier,2189,ZIMBABWE,Harare,
+FCB,Redcliff,2539,ZIMBABWE,Redcliff,
+FCB,Robert Mugabe Road,2121,ZIMBABWE,Harare,
+FCB,Small Bussines Centre,2156,ZIMBABWE,Harare,
+FCB,Non Resident,2197,ZIMBABWE,Harare,
+FCB,University,2153,ZIMBABWE,Harare,
+FCB,Victoria Falls,2598,ZIMBABWE,Victoria Falls,
+FCB,Westgate,2119,ZIMBABWE,Harare,
+FCB,Norton,2548,ZIMBABWE,Harare,
+FCB,West End,2191,ZIMBABWE,Harare,
+FCB,Kadoma,2510,ZIMBABWE,Kadoma,
+FCB,Msasa,2186,Zimbabwe,Harare,
+FCB,Pearl House,2144,ZIMBABWE,Harare,
+FCB,Cash Depot,2154,ZIMBABWE,Harare,
+FCB,Barclays Card,2155,ZIMBABWE,Harare,
+FCB,Bulawayo Operations Centre,2160,ZIMBABWE,Bulawayo,
+FCB,Finance Department,2171,ZIMBABWE,Harare,
+FCB,Triangle,2192,ZIMBABWE,Triangle,
+FCB,Beitbridge,2193,ZIMBABWE,Beitbridge,
+FCB,Chiredzi,2195,ZIMBABWE,Chiredzi,
+FCB,Barclays,2100,,Harare,
+FCB,Gwanda,2519,,Gwanda,
+FCB,Harare Airport,2529,,Harare,
+FCB,Hwange,2535,,Hwange,
+FCB,Kariba,2536,,Kariba,
+FCB,Triangle,2592,,Triangle,
+FCB,Karoi,2594,,Karoi,
+FCB,Chipinge,2596,,Chipinge,
+BBS,Head Office,20020,Zimbabwe,Harare,
+CBZ,Harare,27000,Zimbabwe,Harare,
+CBZ,Longcheng Plaza,6133,Zimbabwe,Harare,
+CBZ,IPU,6000,ZIMBABWE,Harare,
+CBZ,Harare Cash Depot,6122,ZIMBABWE,Harare,
+CBZ,Chipinge,6523,ZIMBABWE,Chipinge,
+CBZ,Rusape,6527,ZIMBABWE,Rusape,
+CBZ,Victoria Falls,6529,ZIMBABWE,Victoria Falls,
+CBZ,Bulawayo Cash Depot,6701,ZIMBABWE,Bulawayo,
+CBZ,Borrowdale,6116,ZIMBABWE,Harare,
+CBZ,Gokwe,6507,Zimbabwe,Gokwe,
+CBZ,Kaguvi Street,6112,ZIMBABWE,Harare,
+CBZ,Masvingo,6509,Zimbabwe,Masvingo,
+CBZ,Selous Avenue,6109,Zimbabwe,Harare,
+CBZ,Julius Nyerere,6103,ZIMBABWE,Harare,
+CBZ,Chiredzi,6510,Zimbabwe,Chiredzi,
+CBZ,Borrowdale,6117,ZIMBABWE,Harare,
+CBZ,Eighth Avenue Bulawayo,6302,Zimbabwe,Bulawayo,
+CBZ,Chitungwiza Main,6504,Zimbabwe,Harare,
+CBZ,Kariba,6511,Zimbabwe,Kariba,
+CBZ,Gweru,6508,ZIMBABWE,Gweru,
+CBZ,Highfield/Boka Agency,6107,ZIMBABWE,Harare,BOKA TOBACCO SALES FLOOR
+CBZ,Kwekwe,6503,ZIMBABWE,Kwekwe,
+CBZ,Bindura,6506,ZIMBABWE,Bindura,
+CBZ,Mhangura,6512,ZIMBABWE,Mhangura,
+CBZ,Mutare Main,6505,Zimbabwe,Mutare,
+CBZ,Marondera,6514,Zimbabwe,Marondera,
+CBZ,Sapphire House,6120,ZIMBABWE,Harare,
+CBZ,Southerton/TSF Agency,6110,Zimbabwe,Harare,
+CBZ,Kwame Nkrumah Avenue,6101,ZIMBABWE,Harare,
+CBZ,Westgate,6118,ZIMBABWE,Harare,
+CBZ,Chinhoyi,6517,ZIMBABWE,Chinhoyi,
+CBZ,Chivhu,6515,ZIMBABWE,Chivhu,
+CBZ,Karoi,6519,ZIMBABWE,Karoi,
+CBZ,Head Office,6100,ZIMBABWE,Harare,
+CBZ,Wealth Management,6115,ZIMBABWE,Harare,
+CBZ,Beitbridge,6513,ZIMBABWE,Beitbridge,
+CBZ,Belmont,6303,ZIMBABWE,Bulawayo,
+CBZ,Cripps Road,6105,ZIMBABWE,Harare,
+CBZ,Retail Banking,6130,ZIMBABWE,Harare,
+CBZ,Chegutu,6516,ZIMBABWE,Chegutu,
+CBZ,ABC Harare,6128,Zimbabwe,Harare,
+CBZ,Tsholotsho,6310,Zimbabwe,Tsholotsho,
+CBZ,Chitungwiza Town Centre,6501,Zimbabwe,Harare,
+CBZ,Muzarabani,6522,Zimbabwe,Muzarabani,
+CBZ,Chirundu,6524,Zimbabwe,Chirundu,
+CBZ,Murehwa,6526,Zimbabwe,Murehwa,
+CBZ,Chimanimani,6531,Zimbabwe,Chimanimani,
+CBZ,Nyika,6534,Zimbabwe,Nyika,
+CBZ,Nembudziya,6539,Zimbabwe,Nembudziya,
+CBZ,Checheche,6541,Zimbabwe,Checheche,
+CBZ,ROBERT MUGABE,6114,ZIMBABWE,Harare,
+CBZ,CBZ BS HARARE,6125,ZIMBABWE,Harare,
+CBZ,MSASA BRANCH,6126,ZIMBABWE,Harare,
+CBZ,NEWLANDS BRANCH,6129,ZIMBABWE,Harare,
+CBZ,BULAWAYO MAIN STREET,6305,ZIMBABWE,Bulawayo,
+CBZ,BULAWAYO FIFE STREET,6307,ZIMBABWE,Bulawayo,
+CBZ,GUTU BRANCH,6520,ZIMBABWE,Gutu,
+CBZ,MUTARE HERBERT CHITEPO STRE,6521,ZIMBABWE,Mutare,
+CBZ,GWANDA BRANCH,6525,ZIMBABWE,Gwanda,
+CBZ,KADOMA BRANCH,6530,ZIMBABWE,Kadoma,
+CBZ,NYANGA BRANCH,6533,ZIMBABWE,Nyanga,
+CBZ,ZVISHAVANE BRANCH,6535,ZIMBABWE,Zvishavane,
+CBZ,NORTON BRANCH,6537,ZIMBABWE,Norton,
+CBZ,Jewel,6104,ZIMBABWE,Harare,
+CBZ,Samora Machel Avenue,6111,ZIMBABWE,Harare,
+CBZ,Redcliff,6518,ZIMBABWE,Redcliff,"Stand Number 482, Redcliff"
+CABS,Harare,24000,ZIMBABWE,Harare,
+ECO,Harare,26000,ZIMBABWE,Harare,
+FBC,Chitungwiza,8122,Zimbabwe,Harare,
+FBC,byo Private,8317,Zimbabwe,Bulawayo,byo Private
+FBC,First Vic Falls,8519,Zimbabwe,Victoria Falls,First Vic Falls
+FBC,Central processing centre,8315,Zimbabwe,Harare,Harare
+FBC,Mutare,8309,Zimbabwe,Mutare,Mutare
+FBC,Zvishavane,8308,Zimbabwe,Zvishavane,Zvishavane
+FBC,Batanai Garden,8306,Zimbabwe,Harare,Batanai Garden Harare
+FBC,Borrowdale,8127,Zimbabwe,Harare,Stand Number 585 Borrowdale
+FBC,Batanai Gardens,8106,ZIMBABWE,Harare,
+FBC,Msasa,8121,ZIMBABWE,Harare,
+FBC,Harare Private Bank,8104,ZIMBABWE,Harare,
+FBC,Gweru,8510,ZIMBABWE,Gweru,
+FBC,Kwekwe,8513,ZIMBABWE,Kwekwe,
+FBC,Masvingo,8514,ZIMBABWE,Masvingo,
+FBC,Mutare,8509,ZIMBABWE,Mutare,
+FBC,Victoria Falls,8512,ZIMBABWE,Victoria Falls,
+FBC,Southerton,8103,ZIMBABWE,Harare,
+FBC,Nelson Mandela Avenue,8102,ZIMBABWE,Harare,
+FBC,Jason Moyo Bulawayo,8305,ZIMBABWE,Bulawayo,
+FBC,Zvishavane,8508,ZIMBABWE,Zvishavane,
+FBC,Chinhoyi,8511,ZIMBABWE,Chinhoyi,
+FBC,Samora Machel Avenue,8101,ZIMBABWE,Harare,
+FBC,FBC Centre,8120,ZIMBABWE,Harare,
+FBC,Central Processing Centre,8115,ZIMBABWE,Harare,
+GB,Head Office,33000,ZIMBABWE,Harare,"5 Central Avenue, Harare"
+IBS,Head Office,22022,Zimbabwe,Harare,
+MET,Masvingo,9506,ZIMBABWE,Masvingo,"Masvingo Polytechnic Campus, Beitbridge Road"
+MET,Victoria Falls,9501,Zimbabwe,Victoria Falls,Victoria Falls
+MET,Head Office,9100,ZIMBABWE,Harare,
+MET,Sam Nujoma,9106,ZIMBABWE,Harare,
+MET,Kwame Nkrumah,9107,ZIMBABWE,Harare,
+MET,Southerton,9108,ZIMBABWE,Harare,
+MET,Mutare,9504,ZIMBABWE,Mutare,
+MET,Harare Poly,9105,Zimbabwe,Harare,
+MET,Victoria Falls,9301,ZIMBABWE,Victoria Falls,
+MET,Belgravia,9103,ZIMBABWE,Harare,
+MET,Main Street,9201,ZIMBABWE,Bulawayo,
+MET,Main,9101,ZIMBABWE,Harare,
+MET,Machipisa,9104,ZIMBABWE,Harare,
+MET,Chitungwiza,9503,ZIMBABWE,Harare,
+MET,Murewa,9502,ZIMBABWE,Murewa,
+MET,Five Avenue,9102,ZIMBABWE,Harare,
+MET,Chipinge,9509,ZIMBABWE,Chipinge,"ZIMPOST Chipinge, Stand Number 274"
+MET,Masvingo Main,9518,Zimbabwe,Masvingo,
+MET,Mbare,9109,Zimbabwe,Harare,
+MET,Mutoko,9507,Zimbabwe,Mutoko,
+MET,Bubi,9510,Zimbabwe,Bubi,
+MET,Gweru,9512,Zimbabwe,Gweru,
+MET,Chinhoyi,9513,Zimbabwe,Chinhoyi,
+MET,Gwanda,9514,Zimbabwe,Gwanda,
+MET,Chitungwiza Makoni,9517,Zimbabwe,Harare,
+MET,Kwekwe,9508,ZIMBABWE,Kwekwe,"Kwekwe Polytechnic Campus, Railway Road"
+MET,Hotsprings,9505,ZIMBABWE,Hotsprings,
+MET,Beitbridge,9511,Zimbabwe,Beitbridge,"40/41 Living Waters Complex, Stand 449, Beitbridge"
+NBS,Head Office Harare,32100,Zimbabwe,Harare,"14th Floor Social Security Centre,Cnr Sam Nujoma Street,Selous Avenue"
+NED,Mutare,18503,ZIMBABWE,Mutare,
+NED,Zvishavane,18506,ZIMBABWE,Zvishavane,100 Ireland Road
+NED,Kwekwe,18508,Zimbabwe,Kwekwe,28B Nelson Mandela
+NED,Leopold Takawira,18305,Zimbabwe,Bulawayo,Jason Moyo
+NED,AVONDALE,18107,Zimbabwe,Harare,AVONDALE
+NED,Southerton2,18104,Zimbabwe,Harare,
+NED,Southerton,18106,Zimbabwe,Harare,
+NED,Belmont,18302,ZIMBABWE,Bulawayo,
+NED,Jason Moyo,18101,ZIMBABWE,Harare,
+NMB,Kwekwe,11525,Zimbabwe,Kwekwe,Kwekwe
+NMB,Joina City,11109,ZIMBABWE,Harare,
+NMB,Borrowdale,11106,ZIMBABWE,Harare,
+NMB,Bulawayo,11311,ZIMBABWE,Bulawayo,
+NMB,Eastgate,11104,ZIMBABWE,Harare,
+NMB,Msasa,11107,ZIMBABWE,Harare,
+NMB,Gweru,11530,ZIMBABWE,Gweru,
+NMB,Angwa City,11102,ZIMBABWE,Harare,
+NMB,Unity Court,11101,ZIMBABWE,Harare,
+NMB,Card Centre,11105,ZIMBABWE,Harare,
+NMB,Southerton,11108,ZIMBABWE,Harare,
+NMB,Mutare,11521,ZIMBABWE,Mutare,
+NMB,Avondale,11110,ZIMBABWE,Harare,"PaSangano, 20 King George Road, Avondale"
+NMB,Chinhoyi,11527,Zimbabwe,Chinhoyi,Chinhoyi
+NMB,NMB,11103,Zimbabwe,Harare,NMB
+POSB,Harare,25000,ZIMBABWE,HARARE,
+RBZ,RESERVE BANK OF ZIMBABWE,1101,ZIMBABWE,HARARE,RESERVE BANK OF ZIMBABWE
+ROY,Takura House,16101,ZIMBABWE,Harare,67 Kwame Nkrumah Avenue
+ROY,Ascot,16301,ZIMBABWE,Bulawayo,Shop 7 Ascot Centre
+ROY,Lobengula Mall,16302,ZIMBABWE,Bulawayo,Shop 9 & 10 Lonbengula Mall
+ROY,Gwanda,16509,ZIMBABWE,Gwanda,6-4th Street
+ROY,Hwange,16508,ZIMBABWE,Hwange,Coronation Drive
+ROY,Karoi,16507,ZIMBABWE,Karoi,9 Harris Road
+ROY,Kadoma,16506,ZIMBABWE,Kadoma,Cnr Mukwati/H Chitepo Street
+ROY,Chegutu,16505,ZIMBABWE,Chegutu,116 Queen Street
+ROY,Nyanga,16504,ZIMBABWE,Nyanga,Stand 18 Rochdale Road
+ROY,Rusape,16502,ZIMBABWE,Rusape,Cnr H Chitepo/R Mugabe
+ROY,Chipinge,16501,ZIMBABWE,Chipinge,75 Main Street
+ROY,Kwekwe,16510,ZIMBABWE,Kwekwe,"35 Nelson Mandela Way, Corner 3rd Street"
+ROY,Marondera,16511,ZIMBABWE,Marondera,"253 Shop 2, The Green"
+STBC,Beitbridge,3501,Zimbabwe,Beitbridge,
+STBC,Hwange,3517,Zimbabwe,Hwange,
+STBC,MINERVA PRIVATE BANKING,3126,ZIMBABWE,Harare,MINERVA PRIVATE BANKING
+STBC,BORROWDALE PRIVATE BANKING,3127,ZIMBABWE,Harare,BORROWDALE PRIVATE BANKING
+STBC,BRADFIELD PRIVATE BANKING,3328,ZIMBABWE,Bulawayo,BRADFIELD PRIVATE BANKING
+STBC,Victoria Falls,3512,ZIMBABWE,Victoria Falls,
+STBC,Ngezi,3516,ZIMBABWE,Ngezi,
+STBC,Nelson Mandela Avenue,3101,ZIMBABWE,Harare,
+STBC,Belmont,3303,ZIMBABWE,Bulawayo,
+STBC,Main Street,3302,ZIMBABWE,Bulawayo,
+STBC,Chitungwiza,3515,ZIMBABWE,Harare,
+STBC,Gweru,3503,ZIMBABWE,Gweru,
+STBC,Kwekwe,3514,ZIMBABWE,Kwekwe,
+STBC,Mutare,3504,ZIMBABWE,Mutare,
+STBC,Samora Machel Avenue,3115,ZIMBABWE,Harare,
+STBC,Southerton,3120,ZIMBABWE,Harare,
+STBC,Msasa,3108,ZIMBABWE,Harare,
+STBC,Parklane,3102,ZIMBABWE,Harare,
+STBC,Chegutu,3513,ZIMBABWE,Chegutu,
+STBC,Belgravia,3103,ZIMBABWE,Harare,
+STBC,Borrowdale,3104,ZIMBABWE,Harare,
+STBC,Minerva,3125,ZIMBABWE,Harare,
+STBC,Electronic Banking Services,3100,ZIMBABWE,Harare,
+STBC,Westgate,3110,ZIMBABWE,Harare,
+STAN, Africa Unity Square,5140,Zimbabwe,Harare,
+STAN, Avondale,5101,Zimbabwe,Harare,
+STAN,Nelson Mandela Avenue,5152,Zimbabwe,Harare,
+STAN, Beitbridge,5569,Zimbabwe,Beitbridge,
+STAN, Belmont,5305,Zimbabwe,Bulawayo,
+STAN, Bindura,5502,Zimbabwe,Bindura,
+STAN, Borrowdale,5128,Zimbabwe,Harare,
+STAN, Bulawayo,5337,Zimbabwe,Bulawayo,
+STAN, Card Centre,5196,Zimbabwe,Harare,
+STAN, Chegutu,5511,Zimbabwe,Chegutu,
+STAN, Chinhoyi,5537,Zimbabwe,Chinhoyi,
+STAN, Chipinge,5517,Zimbabwe,Chipinge,
+STAN, Chiredzi,5573,Zimbabwe,Chiredzi,
+STAN, Chitungwiza,5567,Zimbabwe,Chitungwiza,
+STAN, Chivhu,5501,Zimbabwe,Chivhu,
+STAN, Cripps Road,5160,Zimbabwe,Harare,
+STAN, Gwanda,5557,Zimbabwe,Gwanda,
+STAN, Gweru,5509,Zimbabwe,Gweru,
+STAN,Item Processing Centre,5195,Zimbabwe,Harare,
+STAN, Highlands,5156,Zimbabwe,Harare,
+STAN, Hwange,5545,Zimbabwe,Hwange,
+STAN, Jason Moyo Street,5338,Zimbabwe,Bulawayo,
+STAN, Kadoma,5507,Zimbabwe,Kadoma,
+STAN, Kariba,5515,Zimbabwe,Kariba,
+STAN, Karigamombe Centre,5124,Zimbabwe,Harare,
+STAN, Karoi,5513,Zimbabwe,Karoi,
+STAN, Kwekwe,5525,Zimbabwe,Kwekwe,
+STAN, Marondera,5558,Zimbabwe,Marondera,
+STAN, Masvingo,5505,Zimbabwe,Masvingo,
+STAN, Mhangura,5565,Zimbabwe,Mhangura,
+STAN, Mutare,5541,Zimbabwe,Mutare,
+STAN, Mutoko,5571,Zimbabwe,Mutoko,
+STAN, Mutual Centre,5116,Zimbabwe,Harare,
+STAN, Mvurwi,5553,Zimbabwe,Mvurwi,
+STAN, Nyanga,5563,Zimbabwe,Nyanga,
+STAN, P B C Harare City Branch,5102,Zimbabwe,Harare,
+STAN, Redcliff,5521,Zimbabwe,Redcliff,
+STAN, Robert Mugabe Road,5132,Zimbabwe,Harare,
+STAN, Rusape,5561,Zimbabwe,Rusape,
+STAN, Shurugwi,5529,Zimbabwe,Shurugwi,
+STAN, Southerton,5148,Zimbabwe,Harare,
+STAN, Speke Avenue,5120,Zimbabwe,Harare,
+STAN, Trade Services,5113,Zimbabwe,Harare,
+STAN, Treasury,5197,Zimbabwe,Harare,
+STAN, Victoria Falls,5549,Zimbabwe,Victoria Falls,
+STAN, West End,5136,Zimbabwe,Harare,
+STAN, Westgate,5110,Zimbabwe,Harare,
+STAN,Masvingo,5508,Zimbabwe,Masvingo,
+STAN, Zvishavane,5533,Zimbabwe,Zvishavane,
+STAN,Blocked Funds,5185,Zimbabwe,Harare,Harare
+STAN,Stan Chart Newlands,5600,Zimbabwe,Harare,Newlands Harare
+STW,Chegutu,20524,Zimbabwe,Chegutu,Chegutu
+STW,Fourth Street,20113,Zimbabwe,Harare,Fourth Street
+STW,Triangle,20526,Zimbabwe,Triangle,Triangle
+STW,KWAME NKRUMAH AVENUE,20102,Zimbabwe,Harare,KWAME NKRUMAH AVENUE
+STW,J Nyerere Way,20104,Zimbabwe,Harare,J Nyerere Way
+STW,Gweru,20501,Zimbabwe,Gweru,Gweru
+STW,KWEKWE,20502,Zimbabwe,Kwekwe,KWEKWE
+STW,Lobengula,20302,Zimbabwe,Bulawayo,Lobengula
+STW,Zvishavane,20503,Zimbabwe,Zvishavane,Zvishavane
+STW,Kadoma,20504,Zimbabwe,Kadoma,Kadoma
+STW,Masvingo ZF,20505,Zimbabwe,Masvingo,Masvingo ZF
+STW,Rusape,20506,Zimbabwe,Rusape,Rusape
+STW,Bindura,20507,Zimbabwe,Bindura,Bindura
+STW,Karoi,20508,Zimbabwe,Karoi,Karoi
+STW,Chinhoyi St,20105,Zimbabwe,Harare,Chinhoyi St
+STW,8th Ave Byo,20303,Zimbabwe,Bulawayo,8th Ave Byo
+STW,Masvingo SE,20509,Zimbabwe,Masvingo,Masvingo SE
+STW,G Silundika,20106,Zimbabwe,Harare,G Silundika
+STW,Southerton,20107,Zimbabwe,Harare,Southerton
+STW,Ngezi,20510,Zimbabwe,Ngezi,Ngezi
+STW,Chitungwiza,20108,Zimbabwe,Chitungwiza,Chitungwiza
+STW,Hwange,20511,Zimbabwe,Hwange,Hwange
+STW,9th Ave Byo,20301,Zimbabwe,Bulawayo,9th Ave Byo
+STW,Mutare,20512,Zimbabwe,Mutare,Mutare
+STW,N Mandela,20103,Zimbabwe,Harare,N Mandela
+STW,Chivhu,20513,Zimbabwe,Chivhu,Chivhu
+STW,Highglen,20109,Zimbabwe,Harare,Highglen
+STW,Joina City,20110,Zimbabwe,Harare,Joina City
+STW,Gokwe,20514,Zimbabwe,Gokwe,Gokwe
+STW,Gwanda,20515,Zimbabwe,Gwanda,Gwanda
+STW,Mvuma,20527,Zimbabwe,Mvuma,Mvuma
+STW,Head Office,20101,Zimbabwe,Harare,Head Office
+STW,Avondale,20112,Zimbabwe,Harare,Avondale
+STW,Meikles,20114,Zimbabwe,Harare,Meikles
+STW,Greatermans,20115,Zimbabwe,Harare,Greatermans
+STW,Harare Showgrounds,20111,Zimbabwe,Harare,Harare Showgrounds
+STW,First Street,20116,Zimbabwe,Harare,First Street
+STW,Beitbridge,20520,Zimbabwe,Beitbridge,Beitbridge
+STW,Mvurwi,20517,Zimbabwe,Mvurwi,Mvurwi
+STW,CHINHOYI,20516,Zimbabwe,Chinhoyi,CHINHOYI
+STW,Borrowdale,20117,Zimbabwe,Harare,Borrowdale
+TET,Tetrad,29001,,Harare,
+ZB,Bindura,4610,Zimbabwe,Bindura,
+ZB,Kadoma,4680,Zimbabwe,Kadoma,Kadoma
+ZB,Mutare,4660,Zimbabwe,Mutare,Mutare
+ZB,Chiredzi,4642,Zimbabwe,Chiredzi,Chiredzi
+ZB,Finsure,4624,Zimbabwe,Harare,Harare
+ZB,Chinhoyi,4620,Zimbabwe,Chinhoyi,Chinhoyi
+ZB,Zb Mutare,4551,Zimbabwe,Mutare,Mutare
+ZB,Marondera,4546,Zimbabwe,Marondera,Marondera
+ZB,Zb Bank,4301,Zimbabwe,Harare,Zb Bank Harare
+ZB,Birmingham,4174,Zimbabwe,Harare,Birmingham
+ZB,Westgate,4173,Zimbabwe,Harare,Westgate
+ZB,Highlands,4161,Zimbabwe,Harare,Highlands
+ZB,First Street,4103,Zimbabwe,Harare,First Street Harare
+ZB,Sybank,4096,Zimbabwe,Harare,Harare
+ZB,Sytrust,4095,Zimbabwe,Harare,Harare
+ZB,Highglen,4198,Zimbabwe,Harare,"Shop No.47 High Glen Shopping Centre, Willowvale Township,Hre"
+ZB,Gwanda,4509,ZIMBABWE,Gwanda,No.8 Nassa Complex
+ZB,Retail Banking,4059,ZIMBABWE,Harare,
+ZB,Private Banking,4114,ZIMBABWE,Harare,
+ZB,Gwanda,4510,ZIMBABWE,Gwanda,
+ZB,Rusape,4530,ZIMBABWE,Rusape,
+ZB,Ngezi,4550,ZIMBABWE,Ngezi,
+ZB,Angwa Street,4130,ZIMBABWE,Harare,
+ZB,Avondale,4113,ZIMBABWE,Harare,
+ZB,Beitbridge,4555,ZIMBABWE,Beitbridge,
+ZB,Belmont,4304,ZIMBABWE,Bulawayo,
+ZB,Birmingham Road,4139,ZIMBABWE,Harare,
+ZB,Borrowdale,4129,ZIMBABWE,Harare,
+ZB,Central Administration,4180,ZIMBABWE,Harare,
+ZB,Central Administration,4303,ZIMBABWE,Bulawayo,
+ZB,Chinhoyi,4565,ZIMBABWE,Chinhoyi,
+ZB,Chisipite,4118,ZIMBABWE,Harare,
+ZB,Chitungwiza,4552,ZIMBABWE,Chitungwiza,
+ZB,Corporate Union Ave,4167,ZIMBABWE,Harare,
+ZB,Douglas Road,4157,ZIMBABWE,Harare,
+ZB,Forex,4142,ZIMBABWE,Harare,
+ZB,Fife Street,4302,ZIMBABWE,Bulawayo,
+ZB,First Street,4112,ZIMBABWE,Harare,
+ZB,Graniteside,4120,ZIMBABWE,Harare,
+ZB,Gweru,4537,ZIMBABWE,Gweru,
+ZB,Harare Airport,4143,ZIMBABWE,Harare,
+ZB,Head Office,4109,ZIMBABWE,Harare,
+ZB,Highlands,4116,ZIMBABWE,Harare,
+ZB,International Services,4185,ZIMBABWE,Harare,
+ZB,Jason Moyo Street,4307,ZIMBABWE,Bulawayo,
+ZB,Juliasdale,4527,ZIMBABWE,Juliasdale,
+ZB,Kadoma,4558,ZIMBABWE,Kadoma,
+ZB,Kwekwe,4556,ZIMBABWE,Kwekwe,
+ZB,Marondera,4528,ZIMBABWE,Marondera,
+ZB,Masvingo,4564,ZIMBABWE,Masvingo,
+ZB,Mount Darwin,4566,ZIMBABWE,Mount Darwin,
+ZB,Msasa,4134,ZIMBABWE,Harare,
+ZB,Gutu,4561,ZIMBABWE,Gutu,
+ZB,Murombedzi,4563,ZIMBABWE,Murombedzi,
+ZB,Mutare,4532,ZIMBABWE,Mutare,
+ZB,Plumtree,4511,ZIMBABWE,Bulawayo,
+ZB,Rotten Row,4144,ZIMBABWE,Harare,
+ZB,Samora Machel Avenue,4140,ZIMBABWE,Harare,
+ZB,Sanyati,4560,ZIMBABWE,Sanyati,
+ZB,Union Avenue,4125,ZIMBABWE,Harare,
+ZB,Victoria Falls,4515,ZIMBABWE,Victoria Falls,
+ZB,West End,4151,ZIMBABWE,Harare,
+ZB,Angwa City,4127,ZIMBABWE,Harare,
+ZB,Angwa Corporate,4169,ZIMBABWE,Harare,
+ZB,Central Services,4148,ZIMBABWE,Harare,
+ZB,Hwange,4567,ZIMBABWE,Hwange,
+ZB,Maphisa,4505,ZIMBABWE,Bulawayo,
+ZB,Triangle,4568,ZIMBABWE,Triangle,
+ZB,Westgate,4135,ZIMBABWE,Harare,
+ZB,Zvishavane,4569,ZIMBABWE,Zvishavane,
+ZB,Nyanga,4529,ZIMBABWE,Nyanga,
+ZB,Msasa Corporate,4136,Zimbabwe,Harare,Msasa
+ZB,Harare Airport,4177,Zimbabwe,Harare,Harare Airport
+ZB,Maphisa Agency,4184,Zimbabwe,Harare,Harare
+ZB,Juliasdale Corporate,4544,Zimbabwe,Nyanga,Juliasdale
+ZB,Maphisa Agency,4570,Zimbabwe,Bulawayo,Maphisa
+ZB,Bindura Retail,4536,ZIMBABWE,Bindura,
+ZB,Chiredzi Retail,4548,ZIMBABWE,Chiredzi,
+ZB,PLUMTREE CORPORATE,4571,ZIMBABWE,Plumtree,
+ZB,VICTORIA FALLS CORPORATE,4572,ZIMBABWE,Victoria Falls,
+ZB,MARONDERA CORPORATE,4573,ZIMBABWE,Marondera,
+ZB,MUTARE CORPORATE,4574,ZIMBABWE,Mutare,
+ZB,GWERU CORPORATE,4575,ZIMBABWE,Gweru,
+ZB,MWENEZANA CORPORATE,4576,ZIMBABWE,Mwenezana,
+ZB,BEIT BRIDGE CORPORATE,4577,ZIMBABWE,Beitbridge,
+ZB,KWEKWE CORPORATE,4578,ZIMBABWE,Kwekwe,
+ZB,KADOMA CORPORATE,4579,ZIMBABWE,Kadoma,
+ZB,SANYATI CORPORATE,4580,ZIMBABWE,Sanyati,
+ZB,GUTU-MUPANDAWANA CORPORATE,4581,ZIMBABWE,Gutu,
+ZB,MUROMBEDZI CORPORATE,4582,ZIMBABWE,Murombedzi,
+ZB,MASVINGO CORPORATE,4583,ZIMBABWE,Masvingo,
+ZB,CHINHOYI CORPORATE,4584,ZIMBABWE,Chinhoyi,
+ZB,MOUNT DARWIN CORPORATE,4585,ZIMBABWE,Mount Darwin,
+ZB,MJULIASDALE SUB CORPORATE,4586,ZIMBABWE,Nyanga,
+ZB,HWANGE CORPORATE,4587,ZIMBABWE,Hwange,
+ZB,TRIANGLE CORPORATE,4588,ZIMBABWE,Chiredzi,
+ZB,NYANGA CORPORATE,4589,ZIMBABWE,Nyanga,
+ZB,GWANDA CORPORATE,4590,ZIMBABWE,Gwanda,
+ZB,ZVISHAVANE BRANCH CORPORATE,4591,ZIMBABWE,Zvishavane,
+ZB,KARIBA CORPORATE,4593,ZIMBABWE,Kariba,
+ZB,RUSAPE CORPORATE,4595,ZIMBABWE,Rusape,
+ZB,BINDURA CORPORATE,4596,ZIMBABWE,Bindura,
+ZB,NGEZI CORPORATE,4597,ZIMBABWE,Ngezi,
+ZB,SHURUGWI BRANCH CORPORATE,4598,ZIMBABWE,Shurugwi,
+ZB,COLLEN BAWN CORPORATE,4599,ZIMBABWE,Collen Bawn,
+ZB,Rowan martin Retail,4122,ZIMBABWE,Harare,
+ZB,Harare Airport Corporate,4147,ZIMBABWE,Harare,
+ZB,Ruwa Retail,4152,ZIMBABWE,Harare,
+ZB,First street Corporate,4158,ZIMBABWE,Harare,
+ZB,Avondale Corporate,4159,ZIMBABWE,Harare,
+ZB,Chisipite Corporate,4163,ZIMBABWE,Harare,
+ZB,Msasa Corporate,4171,ZIMBABWE,Harare,
+ZB,Rotten Row Coporate,4178,ZIMBABWE,Harare,
+ZB,West End Corporate,4179,ZIMBABWE,Harare,
+ZB,Ruwa Corporate,4183,ZIMBABWE,Harare,
+ZB,E Class Banking Corporate,4187,ZIMBABWE,Harare,
+ZB,Fife Street Corporate,4370,ZIMBABWE,Bulawayo,
+ZB,Belmont Corporate,4371,ZIMBABWE,Bulawayo,
+ZB,Jason moyo Corporate,4372,ZIMBABWE,Harare,
+ZB,Checheche Branch Retail,4501,ZIMBABWE,Checheche,
+ZB,Redcliffe Retail,4502,ZIMBABWE,Redcliff,
+ZB,Karoi Retail,4503,ZIMBABWE,Karoi,
+ZB,Shurugwi branch Retail,4506,ZIMBABWE,Shurugwi,
+ZB,Mwenezana Branch,4507,ZIMBABWE,Mwenezana,
+ZB,Kariba Retail,4508,ZIMBABWE,Kariba,
+ZB,Retail Marketing,4117,ZIMBABWE,Harare,
+ZB,Graniteside Corporate,4166,ZIMBABWE,Harare,
+ZB,Borrowdale Corporate,4168,ZIMBABWE,Harare,
+ZB,Samora Machel Corporate,4176,ZIMBABWE,Harare,
+ZB,CHISIPITE AGRBUSINE,4121,ZIMBABWE,Harare,CHISIPITE AGRBUSINE
+ZB,FIRST STREET MICROFI,4162,ZIMBABWE,Harare,FIRST STREET MICROFI
+ZB,AVONDALE MICROFINANC,4170,ZIMBABWE,Harare,AVONDALE MICROFINANC
+ZB,BORROWDALE MICROFINA,4181,ZIMBABWE,Harare,BORROWDALE MICROFINA
+ZB,MSASA MICROFINANCE,4182,ZIMBABWE,Harare,MSASA MICROFINANCE
+ZB,DOUGLAS ROAD MICROFI,4186,ZIMBABWE,Harare,DOUGLAS ROAD MICROFI
+ZB,SIYASO AGENCY,4192,ZIMBABWE,Harare,SIYASO AGENCY
+ZB,GAZALAND AGENCY,4193,ZIMBABWE,Harare,GAZALAND AGENCY
+ZB,FIFE STREET AGRBUSI,4300,ZIMBABWE,Bulawayo,FIFE STREET AGRBUSI
+ZB,BELMONT AGRBUSINESS,4306,ZIMBABWE,Bulawayo,BELMONT AGRBUSINESS
+ZB,JASON MOYO AGRBUSIN,4310,ZIMBABWE,Bulawayo,JASON MOYO AGRBUSIN
+ZB,JASON MOYO SMES,4381,ZIMBABWE,Bulawayo,JASON MOYO SMES
+ZB,JASON MOYO MICROFINA,4382,ZIMBABWE,Bulawayo,JASON MOYO MICROFINA
+ZB,FIFE STREET SMES,4384,ZIMBABWE,Bulawayo,FIFE STREET SMES
+ZB,FIFE STREET MICROFIN,4385,ZIMBABWE,Bulawayo,FIFE STREET MICROFIN
+ZB,BELMONT SMES,4386,ZIMBABWE,Bulawayo,BELMONT SMES
+ZB,BELMONT MICROFINANCE,4387,ZIMBABWE,Bulawayo,BELMONT MICROFINANCE
+ZB,GUTU-MUPANDAWANA AGR,4400,ZIMBABWE,Masvingo,GUTU-MUPANDAWANA AGR
+ZB,GUTU-MUPANDAWANA SME,4401,ZIMBABWE,Masvingo,GUTU-MUPANDAWANA SME
+ZB,GUTU-MUPANDAWANA MIC,4402,ZIMBABWE,Masvingo,GUTU-MUPANDAWANA MIC
+ZB,MUROMBEDZI AGRBUSIN,4403,ZIMBABWE,Gutu,MUROMBEDZI AGRBUSINS
+ZB,MUROMBEDZI SMES,4404,ZIMBABWE,Gutu,MUROMBEDZI SMES
+ZB,MUROMBEDZI MICROFINA,4405,ZIMBABWE,Gutu,MUROMBEDZI MICROFINA
+ZB,MASVINGO AGRBUSINES,4406,ZIMBABWE,Masvingo,MASVINGO AGRBUSINES
+ZB,MASVINGO SMES,4407,ZIMBABWE,Masvingo,MASVINGO SMES
+ZB,MASVINGO MICROFINANC,4408,ZIMBABWE,Masvingo,MASVINGO MICROFINANC
+ZB,CHINHOYI MICROFINANC,4409,ZIMBABWE,Chinhoyi,CHINHOYI MICROFINANC
+ZB,CHINHOYI SMES,4410,ZIMBABWE,Chinhoyi,CHINHOYI SMES
+ZB,CHINHOYI MICROFINANC,4411,ZIMBABWE,Chinhoyi,CHINHOYI MICROFINANC
+ZB,MOUNT DARWIN AGRBUS,4412,ZIMBABWE,Mount Darwin,MOUNT DARWIN AGRBUS
+ZB,MOUNT DARWIN SMES,4413,ZIMBABWE,Mount Darwin,MOUNT DARWIN SMES
+ZB,MOUNT DARWIN MICROFI,4414,ZIMBABWE,Mount Darwin,MOUNT DARWIN MICROFI
+ZB,HWANGE AGRBUSINESS,4415,ZIMBABWE,Hwange,HWANGE AGRBUSINESS
+ZB,HWANGE SMES,4416,ZIMBABWE,Hwange,HWANGE SMES
+ZB,HWANGE MICROFINANCE,4417,ZIMBABWE,Hwange,HWANGE MICROFINANCE
+ZB,TRIANGLE AGRBUSINES,4418,ZIMBABWE,Chiredzi,TRIANGLE AGRBUSINES
+ZB,TRIANGLE SMES,4419,ZIMBABWE,Chiredzi,TRIANGLE SMES
+ZB,TRIANGLE MICROFINANC,4420,ZIMBABWE,Chiredzi,TRIANGLE MICROFINANC
+ZB,ZVISHAVANE AGRBUSIN,4421,ZIMBABWE,Zvishavane,ZVISHAVANE AGRBUSIN
+ZB,ZVISHAVANE SMES,4422,ZIMBABWE,Zvishavane,ZVISHAVANE SMES
+ZB,REDCLIFF SMES,4513,ZIMBABWE,Kwekwe,REDCLIFF SMES
+ZB,KAROI AGRBUSINESS,4514,ZIMBABWE,Karoi,KAROI AGRBUSINESS
+ZB,KAROI SMES,4516,ZIMBABWE,Karoi,KAROI SMES
+ZB,KADOMA AGRBUSINESS,4517,ZIMBABWE,Kadoma,KADOMA AGRBUSINESS
+ZB,SHURUGWI AGRBUSINES,4518,ZIMBABWE,Harare,SHURUGWI AGRBUSINES
+ZB,SHURUGWI SMES,4519,ZIMBABWE,Harare,SHURUGWI SMES
+ZB,KADOMA SMES,4520,ZIMBABWE,Kadoma,KADOMA SMES
+ZB,MWENEZANA AGRBUSINE,4521,ZIMBABWE,Harare,MWENEZANA AGRBUSINE
+ZB,MWENEZANA SMES,4522,ZIMBABWE,Harare,MWENEZANA SMES
+ZB,SANYATI AGRBUSINESS,4523,ZIMBABWE,Harare,SANYATI AGRBUSINESS
+ZB,KARIBA CORPORATE,4524,ZIMBABWE,Kariba,KARIBA CORPORATE
+ZB,KARIBA AGRBUSINESS,4525,ZIMBABWE,Kariba,KARIBA AGRBUSINESS
+ZB,KARIBA SMES,4526,ZIMBABWE,Kariba,KARIBA SMES
+ZB,SANYATI SMES,4531,ZIMBABWE,Harare,SANYATI SMES
+ZB,GWANDA AGRBUSINESS,4533,ZIMBABWE,Gwanda,GWANDA AGRBUSINESS
+ZB,GWANDA SMES,4534,ZIMBABWE,Gwanda,GWANDA SMES
+ZB,COLLEEN BAWN AGRBUS,4535,ZIMBABWE,Harare,COLLEEN BAWN AGRBUS
+ZB,COLLEEN BAWN SMES,4538,ZIMBABWE,Harare,COLLEEN BAWN SMES
+ZB,PLUMTREE AGRBUSINES,4539,ZIMBABWE,Plumtree,PLUMTREE AGRBUSINES
+ZB,PLUMTREE SMES,4540,ZIMBABWE,Plumtree,PLUMTREE SMES
+ZB,VICTORIA FALLS AGRB,4541,ZIMBABWE,Victoria falls,VICTORIA FALLS AGRB
+ZB,VICTORIA FALLS SMES,4542,ZIMBABWE,Victoria falls,VICTORIA FALLS SMES
+ZB,JULIASDALE AGRBUSIN,4543,ZIMBABWE,Harare,JULIASDALE AGRBUSIN
+ZB,MARONDERA AGRBUSINE,4545,ZIMBABWE,Marondera,MARONDERA AGRBUSINE
+ZB,RUSAPE AGRBUSINESS,4547,ZIMBABWE,Rusape,RUSAPE AGRBUSINESS
+ZB,RUSAPE SMES,4549,ZIMBABWE,Rusape,RUSAPE SMES
+ZB,BINDURA AGRBUSINESS,4553,ZIMBABWE,Bindura,BINDURA AGRBUSINESS
+ZB,BINDURA SMES,4554,ZIMBABWE,Bindura,BINDURA SMES
+ZB,GWERU SMES,4557,ZIMBABWE,Gweru,GWERU SMES
+ZB,NGEZI AGRBUSINESS,4559,ZIMBABWE,Chegutu,NGEZI AGRBUSINESS
+ZB,NGEZI SMES,4562,ZIMBABWE,Chegutu,NGEZI SMES
+ZB,KWEKWE AGRBUSINESS,4592,ZIMBABWE,Kwekwe,KWEKWE AGRBUSINESS
+ZB,KWEKWE SMES,4594,ZIMBABWE,Kwekwe,KWEKWE SMES
+ZB,ZBBS MARONDERA,4613,ZIMBABWE,Marondera,ZBBS MARONDERA
+ZB,ZBBS AVONDALE,4615,ZIMBABWE,Harare,ZBBS AVONDALE
+ZB,ZBBS HWANGE,4633,ZIMBABWE,Hwngwe,ZBBS HWANGE
+ZB,ZBBS PLUMTREE,4637,ZIMBABWE,Plumtree,ZBBS PLUMTREE
+ZB,ZBBS MASVINGO,4640,ZIMBABWE,Masvingo,ZBBS MASVINGO
+ZB,ZBBS ZVISHAVANE,4652,ZIMBABWE,Zvishavane,ZBBS ZVISHAVANE
+ZB,ZBBS RUSAPE,4662,ZIMBABWE,Rusape,ZBBS RUSAPE
+ZB,CHINHOYI UNVERSITY SATELITE BRANCH,4450,ZIMBABWE,Chinhoyi,CHINHOYI UNVERSITY SATELITE BRANCH
+ZB,AVONDALE AGRBUSINES,4104,ZIMBABWE,Harare,AVONDALE AGRBUSINES
+ZB,FIRST STREET AGRBUS,4107,ZIMBABWE,Harare,FIRST STREET AGRBUS
+ZB,AVONDALE SMES,4111,ZIMBABWE,Harare,AVONDALE SMES
+ZB,CHISIPITE SMES,4123,ZIMBABWE,Harare,CHISIPITE SMES
+ZB,GRANITESIDE AGRBUSI,4124,ZIMBABWE,Harare,GRANITESIDE AGRBUSI
+ZB,GRANITESIDE SMESBusi,4126,ZIMBABWE,Harare,GRANITESIDE SMESBusi
+ZB,BORROWDALE AGRBUSIN,4128,ZIMBABWE,Harare,BORROWDALE AGRBUSIN
+ZB,BORROWDALE SMES,4132,ZIMBABWE,Harare,BORROWDALE SMES
+ZB,MSASA AGRBUSINESS,4133,ZIMBABWE,Harare,MSASA AGRBUSINESS
+ZB,ROTTEN ROW AGRBUSIN,4137,ZIMBABWE,Harare,ROTTEN ROW AGRBUSIN
+ZB,ROTTEN ROW SMES,4138,ZIMBABWE,Harare,ROTTEN ROW SMES
+ZB,WEST END AGRBUSINES,4141,ZIMBABWE,Harare,WEST END AGRBUSINES
+ZB,CENTRAL CASH DEPOT HRE,4146,ZIMBABWE,Harare,CENTRAL CASH DEPOT HRE
+ZB,DOUGLAS ROAD AGRBUS,4150,ZIMBABWE,Harare,DOUGLAS ROAD AGRBUS
+ZB,DOUGLAS ROAD SMES,4153,ZIMBABWE,Harare,DOUGLAS ROAD SMES
+ZB,WEST END MICROFINANC,4155,ZIMBABWE,Harare,WEST END MICROFINANC
+ZB,MUTARE AGRBUSINESS,4447,ZIMBABWE,Mutare,MUTARE AGRBUSINESS
+ZB,JULIASDALE MICROFINA,4448,ZIMBABWE,Harare,JULIASDALE MICROFINA
+ZB,ZVISHAVANE MICROFINA,4423,ZIMBABWE,Zvishavane,ZVISHAVANE MICROFINA
+ZB,CHECHECHE CORPORATE,4424,ZIMBABWE,Chiredzi,CHECHECHE CORPORATE
+ZB,CHECHECHE MICROFINAN,4425,ZIMBABWE,Chiredzi,CHECHECHE MICROFINAN
+ZB,REDCLIFF CORPORATE,4426,ZIMBABWE,Kadoma,REDCLIFF CORPORATE
+ZB,REDCLIFF MICROFINANC,4427,ZIMBABWE,Kadoma,REDCLIFF MICROFINANC
+ZB,KAROI CORPORATE,4428,ZIMBABWE,Karoi,KAROI CORPORATE
+ZB,KAROI MICROFINANCE,4429,ZIMBABWE,Karoi,KAROI MICROFINANCE
+ZB,SHURUGWI MICROFINANC,4430,ZIMBABWE,Shurugwi,SHURUGWI MICROFINANC
+ZB,KARIBA MICROFINANCE,4431,ZIMBABWE,Kariba,KARIBA MICROFINANCE
+ZB,GWANDA MICROFINANCE,4432,ZIMBABWE,Gwanda,GWANDA MICROFINANCE
+ZB,MWENEZANA MICROFINAN,4433,ZIMBABWE,Harare,MWENEZANA MICROFINAN
+ZB,COLLEEN BAWN MICROFI,4434,ZIMBABWE,Harare,COLLEEN BAWN MICROFI
+ZB,PLUMTREE MICROFINANC,4435,ZIMBABWE,Plumtree,PLUMTREE MICROFINANC
+ZB,VICTORIA FALLS MICRO,4436,ZIMBABWE,Victoria Falls,VICTORIA FALLS MICRO
+ZB,MARONDERA MICROFINAN,4437,ZIMBABWE,Marondera,MARONDERA MICROFINAN
+ZB,RUSAPE MICROFINANCE,4438,ZIMBABWE,Mutare,RUSAPE MICROFINANCE
+ZB,MUTARE MICROFINANCE,4439,ZIMBABWE,Mutare,MUTARE MICROFINANCE
+ZB,BINDURA MICROFINANCE,4440,ZIMBABWE,Bindura,BINDURA MICROFINANCE
+ZB,GWERU MICROFINANCE,4441,ZIMBABWE,Gweru,GWERU MICROFINANCE
+ZB,NGEZI MICROFINANCE,4442,ZIMBABWE,Chegutu,NGEZI MICROFINANCE
+ZB,KWEKWE MICROFINANCE,4444,ZIMBABWE,Kwekwe,KWEKWE MICROFINANCE
+ZB,BEITBRIDGE MICROFINA,4443,ZIMBABWE,Beitbridge,BEITBRIDGE MICROFINA
+ZB,KADOMA MICROFINANCE,4445,ZIMBABWE,Kadoma,KADOMA MICROFINANCE
+ZB,SANYATI MICROFINANCE,4446,ZIMBABWE,Kwekwe,SANYATI MICROFINANCE
+ZB,Kwekwe,4670,Zimbabwe,Kwekwe,Kwekwe
+ZB,Gweru,4650,Zimbabwe,Gweru,Gweru
+ZB,Bulawayo Main,4630,Zimbabwe,Bulawayo,Bulawayo Main
+ZB,Chitungwiza,4644,Zimbabwe,Chitungwiza,Chutungwiza
+ZB,Harare,4191,Zimbabwe,Harare,Harare
+ZB,Shurugwi,4656,Zimbabwe,Shurugwi,Shurugwi
+ZB,Bindura,4621,Zimbabwe,Bindura,Bindura
